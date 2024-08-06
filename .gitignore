@@ -1,3 +1,6 @@
+# Ignore application properties
+application.properties
+private  static final String SECRET_KEY 
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
